@@ -45,7 +45,7 @@ inteligentes (SIN) de [l'Escola Politècnica Superior d'Alcoi (EPSA)](https://ww
 
 #### Laboratorio
 
-- [Presentación](./B2/Lab/README.md)
+- [Presentación](B2/Lab/README_General_p2.md)
 - [Parte 1: Entorno de trabajo y datasets](./B2/Lab/P2.S1%20Entorno%20de%20trabajo%20+%20datasets/)
 - [Parte 2: Perceptrón](./B2/Lab/P2.S2%20Perceptrón/)
 - [Parte 3: Regresión Logística](./B2/Lab/P2.S3%20Regresión%20Logística/)

@@ -26,12 +26,12 @@ En esta práctica aprenderemos a construir sistemas de clasificación para difer
 
 ## Entorno de trabajo
 
-Para la realización de la práctica, deberemos ser capaces de abrir, modificar y ejecutar los cuadernos Jupyter proporcionados, así como crear nuevos cuadernos. Para más detalles, ver las instrucciones de la [Sesión 1](P2.S1%20Entorno%20de%20trabajo%20+%20datasets/README.md).
+Para la realización de la práctica, deberemos ser capaces de abrir, modificar y ejecutar los cuadernos Jupyter proporcionados, así como crear nuevos cuadernos. Para más detalles, ver las instrucciones de la [Sesión 1](P2.S1 Entorno de trabajo + datasets/README_sesion1.md).
 
 ## Planificación
-- [**Sesión 1**](./P2.S1%20Entorno%20de%20trabajo%20+%20datasets/README.md): entorno de trabajo + presentación datasets.
-- [**Sesión 2**](./P2.S2%20Perceptrón/README.md): construcción de clasificadores lineales basados en el algoritmo Perceptrón.
-- [**Sesión 3**](./P2.S3%20Regresión%20Logística/README.md): construcción de clasificadores de regresión logística.
+- [**Sesión 1**](P2.S1 Entorno de trabajo + datasets/README_sesion1.md): entorno de trabajo + presentación datasets.
+- [**Sesión 2**](P2.S2 Perceptrón/README_sesion2.md): construcción de clasificadores lineales basados en el algoritmo Perceptrón.
+- [**Sesión 3**](P2.S3 Regresión Logística/README_sesion3.md): construcción de clasificadores de regresión logística.
 - [**Sesión 4**](./P2.S4%20Examen%20(Competición)/README.md): prueba práctica de laboratorio.
 
 ## Tareas a realizar y entrega
